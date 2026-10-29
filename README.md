@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-regevidencehub-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://regevidencehub.com/
+RegEvidenceHub, operated by Technologies RegEvidence Inc., provides eight focused products for UK regulatory readiness and industrial quality assurance. The platform offers evidence‑linked preflight checks, clear free starting points, and transparent pricing, helping businesses, engineers, and AI workflows ensure compliance before acting.
+
+**Areas:** Company · Regulatory · Quality Assurance · UK · Evidence · API
+
+## regevidencehub-com on APIs.io
+
+Everything profiled for regevidencehub-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/regevidencehub-com/](https://apis.io/providers/regevidencehub-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- [regevidencehub-com Account API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-account-api/) — The Account API from regevidencehub-com — 3 operation(s) for account.
+- [regevidencehub-com Account Checkout API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-account-checkout-api/) — The Account Checkout API from regevidencehub-com — 4 operation(s) for account checkout.
+- [regevidencehub-com Business Inquiries API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-business-inquiries-api/) — The Business Inquiries API from regevidencehub-com — 1 operation(s) for business inquiries.
+- [regevidencehub-com Checkout API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-checkout-api/) — The Checkout API from regevidencehub-com — 1 operation(s) for checkout.
+- [regevidencehub-com Cqc API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-cqc-api/) — The cqc API from regevidencehub-com — 2 operation(s) for cqc.
+- [regevidencehub-com CQC Provider Regulatory Decision Layer API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-cqc-provider-regulatory-decision-layer-api/) — The CQC Provider Regulatory Decision Layer API from regevidencehub-com — 1 operation(s) for cqc provider regulatory decision layer.
+- [regevidencehub-com Guides API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-guides-api/) — The Guides API from regevidencehub-com — 1 operation(s) for guides.
+- [regevidencehub-com Health API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-health-api/) — The Health API from regevidencehub-com — 1 operation(s) for health.
+- [regevidencehub-com Incident API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-incident-api/) — The incident API from regevidencehub-com — 1 operation(s) for incident.
+- [regevidencehub-com MCP API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-mcp-api/) — The Mcp API from regevidencehub-com — 1 operation(s) for mcp.
+- [regevidencehub-com Metrics API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-metrics-api/) — The Metrics API from regevidencehub-com — 1 operation(s) for metrics.
+- [regevidencehub-com Notification API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-notification-api/) — The notification API from regevidencehub-com — 1 operation(s) for notification.
+- [regevidencehub-com Pricing API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-pricing-api/) — The Pricing API from regevidencehub-com — 1 operation(s) for pricing.
+- [regevidencehub-com Privacy API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-privacy-api/) — The Privacy API from regevidencehub-com — 1 operation(s) for privacy.
+- [regevidencehub-com Ready API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-ready-api/) — The Ready API from regevidencehub-com — 1 operation(s) for ready.
+- [regevidencehub-com Registration API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-registration-api/) — The registration API from regevidencehub-com — 1 operation(s) for registration.
+- [regevidencehub-com Regulated Activities API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-regulated-activities-api/) — The regulated-activities API from regevidencehub-com — 1 operation(s) for regulated-activities.
+- [regevidencehub-com Regulatory API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-regulatory-api/) — The regulatory API from regevidencehub-com — 2 operation(s) for regulatory.
+- [regevidencehub-com Report Checkout API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-report-checkout-api/) — The Report Checkout API from regevidencehub-com — 1 operation(s) for report checkout.
+- [regevidencehub-com Reporting API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-reporting-api/) — The Reporting API from regevidencehub-com — 2 operation(s) for reporting.
+- [regevidencehub-com Status API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-status-api/) — The Status API from regevidencehub-com — 1 operation(s) for status.
+- [regevidencehub-com Statutory Notification Check API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-statutory-notification-check-api/) — The Statutory Notification Check API from regevidencehub-com — 1 operation(s) for statutory notification check.
+- [regevidencehub-com Support API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-support-api/) — The Support API from regevidencehub-com — 1 operation(s) for support.
+- [regevidencehub-com Terms API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-terms-api/) — The Terms API from regevidencehub-com — 1 operation(s) for terms.
+- [regevidencehub-com Version API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-version-api/) — The Version API from regevidencehub-com — 1 operation(s) for version.
+- [regevidencehub-com .well Known API](https://apis.io/apis/regevidencehub-com/regevidencehub-com-well-known-api/) — The .well Known API from regevidencehub-com — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Regevidencehub Com Agentic Access](https://apis.io/agentic-access/regevidencehub-com/regevidencehub-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AccountCheckoutRequest](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-account-checkout-request/)
+- [AccountCreditDebitRequest](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-account-credit-debit-request/)
+- [BusinessInquiryRequest](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-business-inquiry-request/)
+- [CheckoutRequest](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-checkout-request/)
+- [CheckoutResponse](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-checkout-response/)
+- [ReportCheckoutRequest](https://apis.io/schemas/regevidencehub-com/regevidencehub-com-report-checkout-request/)
+
+#### Overlays (2)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Api Regevidencehub Com Overlay](https://apis.io/overlays/regevidencehub-com/api-regevidencehub-com-overlay/)
+- [Cqc Regevidencehub Com Overlay](https://apis.io/overlays/regevidencehub-com/cqc-regevidencehub-com-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [regevidencehub-com API Rules](https://apis.io/rules/regevidencehub-com/regevidencehub-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Regevidencehub Com Authentication](https://apis.io/security/regevidencehub-com/regevidencehub-com-authentication/)
+- [Regevidencehub Com Domain Security](https://apis.io/security/regevidencehub-com/regevidencehub-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Regevidencehub Com Scopes](https://apis.io/scopes/regevidencehub-com/regevidencehub-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://regevidencehub.com/)
+- [Documentation](https://regevidencehub.com/developers/)
+- [Getting started](https://regevidencehub.com/developers/)
+- [Pricing](https://regevidencehub.com/pricing/)
+- [Support](https://regevidencehub.com/support/)
+- [Terms of service](https://regevidencehub.com/terms/)
+- [Privacy policy](https://regevidencehub.com/privacy/)
+- [GitHub](https://github.com/ChanghuLiu)
+
+## API Evangelist rating
+
+**Kin Score 46.3** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 45.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 31.6 |
+
+**Agent readiness 46.0** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/regevidencehub-com/](https://apis.io/providers/regevidencehub-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for regevidencehub-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/regevidencehub-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
